@@ -54,3 +54,5 @@ Lab completed!
 
 This lab was very easy and very useful. It gives us another way to connect to our VMs without exposing our public IP or worrying about additional RDP and SSH sessions. Very useful. 
 
+**Update:** I'm just testing out pushing updates to my GitHub repos from VSC. Lets see if this works. 
+
