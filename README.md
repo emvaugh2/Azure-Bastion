@@ -56,3 +56,5 @@ This lab was very easy and very useful. It gives us another way to connect to ou
 
 **Update:** I'm just testing out pushing updates to my GitHub repos from VSC. Lets see if this works. 
 
+**Draft Update:** Adding more details about Azure Bastion setup
+
